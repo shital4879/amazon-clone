@@ -20,7 +20,7 @@
     width: 115px;
 }
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("./Images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -178,7 +178,7 @@
 .hero-page{
     height: 380px;
     width: 100%;
-    background-image: url("hero.jpg");
+    background-image: url("./Images/hero.jpg");
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -267,7 +267,7 @@ ul a{
 
  } 
 .foot-logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("Images/amazon_logo.png");
     background-size: cover;
     height: 60px;
     width: 100px;
